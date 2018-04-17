@@ -29,7 +29,7 @@ PS：具体代码请看`prod.server.js`文件
 * [x] ESlint
 
 #### src目录结构
-![](https://oc1gyfe6q.qnssl.com/17-7-27/71529472.jpg)
+![]()
 
 ### 难点
 
