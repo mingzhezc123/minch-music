@@ -61,7 +61,7 @@ PS：具体代码请看`prod.server.js`文件
 具体效果请自身体验：）
 
 ### 展示
-！[展示](https://github.com/mingzhezc123/minch-music/blob/master/show/show.gif)
+- ![展示](https://github.com/mingzhezc123/minch-music/blob/master/show/show.gif)
 
 ### 构建
 #### 开发环境
